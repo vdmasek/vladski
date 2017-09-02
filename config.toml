@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://vdmasek.github.io/vladski/"
 title = "Vladski Hub"
 publishDir = "docs"
 theme = "creative"
